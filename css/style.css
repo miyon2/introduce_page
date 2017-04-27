@@ -87,13 +87,12 @@ button:focus {
 
 footer{
   background-color: #EEEEEE;
-  height: 50px;
+  height: 95px;
   text-align: center;
   padding-top: 10px;
 }
 
 footer>p>a{
-  margin-top: 4px;
   font-size: 14px;
   color: #333;
   text-decoration: none;
