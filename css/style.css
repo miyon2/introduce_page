@@ -1,0 +1,107 @@
+* {
+  font-family: 'Spoqa Han Sans'!important;
+}
+
+header{
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+}
+
+hr{
+  background-color: #FFDEDF;
+}
+
+#introduce{
+  font-size: 48px;
+  margin-top: 130px;
+  margin-bottom: 70px;
+  text-align: center;
+  color: #999;
+}
+
+.go_content{
+  width: 83%;
+  font-style:italic;
+  background-color: white;
+  border:0 none;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+button>p{
+  padding-top: 8px;
+  font-size: 45px;
+}
+
+.content{
+  padding-left: 400px;
+  width: 330px;
+}
+
+button:hover {
+  border: 2px solid;
+  border-color: white white #FFDEDF white;
+}
+button:active {
+  border-radius: 3%;
+  transform: translateY(2px);
+}
+button:focus {
+  outline:0 !important;
+}
+
+.top{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+.left{
+  text-align: right;
+}
+
+.left>p{
+  font-style: italic;
+}
+
+.right>p{
+  font-style: italic;
+}
+
+.bottom{
+  margin-bottom: 70px;
+}
+
+.bottom>p{
+  color: #666;
+  text-align: center;
+}
+
+#my_photo{
+  width: 300px;
+  height: 450px;
+}
+
+footer{
+  background-color: #EEEEEE;
+  height: 50px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+footer>p>a{
+  margin-top: 4px;
+  font-size: 14px;
+  color: #333;
+  text-decoration: none;
+}
+
+footer>div{
+  background-color: #EEEEEE;
+  border-radius: 5%;
+  padding: 5px;
+  width: 56px;
+}
